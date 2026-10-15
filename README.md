@@ -1,3 +1,3 @@
-This repo is for internal use only. It's a helper repo to [`void-builder`](https://github.com/voideditor/void-builder).
+This repo is for internal use only. It's a helper repo to [`DarkOS-builder`](https://github.com/pedro2rafael4561-boop/DarkOS-builder).
 
-Download Void [here](https://voideditor.com/download-beta) instead.
+Download DarkOS [here](https://github.com/pedro2rafael4561-boop/DarkOS/download-beta) instead.
